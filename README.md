@@ -1,5 +1,5 @@
 # 💫 About Me:
-CS Grad | Full-Stack Developer & ML Enthusiast.<br><br>💻 Building scalable web apps using React, Python, Django, and PostgreSQL<br><br>📊 Exploring data analysis and machine learning with Scikit-learn, Pandas, and OpenCV<br><br>🧩 Grinding DSA in Python and turning ideas into real-world projects<br><br>🌱 Always learning, debugging, and shipping<br><br>⚡ Interested in clean UI architecture, REST APIs, and practical ML integrations
+CS Grad | Full-Stack Developer & ML Enthusiast.<br>💻 Building scalable web apps using React, Python, Django, and PostgreSQL<br>📊 Exploring data analysis and machine learning with Scikit-learn, Pandas, and OpenCV<br>🧩 Grinding DSA in Python and turning ideas into real-world projects<br>🌱 Always learning, debugging, and shipping<br>⚡ Interested in clean UI architecture, REST APIs, and practical ML integrations
 
 
 ## 🌐 Socials:
